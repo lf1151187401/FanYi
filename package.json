@@ -1,0 +1,21 @@
+{
+  "name": "leaphy-fy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fy": "index.js",
+    "yd": "main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.1",
+    "superagent": "^5.1.3",
+    "urlencode": "^1.1.0"
+  }
+}
